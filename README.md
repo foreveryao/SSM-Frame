@@ -1,4 +1,3 @@
-[toc]
 # SSM框架搭建
 
 ## 创建maven项目（Webapp）
